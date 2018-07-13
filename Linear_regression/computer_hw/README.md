@@ -7,9 +7,13 @@ y_training -> contains outpues obtained for features in X_training
 X_test -> contains test features
 y_test -> contains outpues obtained for features in X_test
 
-All files are csv. All data has been standardized therefore we do not need an intercept/offset(first column of ones).
-The  proportion used for the split is 80/20 approximatley. 80% of the samples
-for training and 20% for testing.
+All files are csv. 
+All data has been standardized therefore we do not need an intercept/offset(first column of ones).
+The  proportion used for the split is 80/20 approximatley (80% of the samples
+for training and 20% for testing).
+
+
+## Original info:
 
 1. Title: Relative CPU Performance Data 
 
