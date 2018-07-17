@@ -1,4 +1,4 @@
-Obtained from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+Obtained from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php).
  
 The original dataset (present in the file jsbach_chorals_harmony.data) was split in training and test:
  
