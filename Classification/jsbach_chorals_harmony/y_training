@@ -1,51 +1,16 @@
+chord
  F_M
  C_M
  C_M
+ F_M
  F_M
  D_m
- F_M
- F_M
- BbM
- BbM
- BbM
- BbM
- F_M
- F_M
- BbM
- BbM
- C_M7
- C_M7
- C_M7
- F_M
- C_M
- D_m7
- D_m7
- G_M
- C_M
- F_M
- BbM
- BbM
- A_m
- A_m
- C_M7
- C_M7
- F_M
- C_M4
- C_M7
- C_M7
- F_M
- F_M
- C_M
- F_M
- F_M
- F_M
+ D_m
  F_M
  BbM
  BbM
  BbM
  BbM
- BbM
- F_M
  F_M
  BbM
  BbM
@@ -66,12 +31,46 @@
  BbM
  BbM
  A_m
- C_M7
+ A_m
  C_M7
  F_M
  F_M
  C_M4
  C_M4
+ C_M7
+ C_M7
+ F_M
+ C_M
+ C_M
+ F_M
+ F_M
+ D_m
+ F_M
+ BbM
+ BbM
+ BbM
+ BbM
+ BbM
+ BbM
+ F_M
+ BbM
+ BbM
+ BbM
+ C_M7
+ F_M
+ C_M
+ D_m7
+ D_m7
+ D_m7
+ C_M
+ F_M
+ BbM
+ A_m
+ A_m
+ C_M7
+ C_M7
+ F_M
+ C_M4
  C_M4
  C_M7
  C_M7
@@ -86,7 +85,7 @@
  C_M4
  C_M4
  C_M4
- C_M4
+ F_M
  F_M
  F_M
  F_M
@@ -96,31 +95,33 @@
  C_M
  C_M7
  C_M7
+ C_M7
+ F_M
  F_M
  F_M
  C_M
- F_M
+ C_M
  F_M
  G_m
  G_m
  G_m
  D_m
+ D_m
  G_m
  G_m
  C_M
  C_M
- C_M
+ F_M
+ D_m
  D_m
  D_m
  D_m
  A_m
- A_m
  BbM
  BbM
  F_M
- C_M7
- C_M7
  F_M
+ C_M7
  F_M
  G_M7
  G_M7
@@ -142,18 +143,13 @@
  C#d7
  D_M
  D_M
- C#d7
- D_M7
  G_m
- D_M
  D_M
  D_M
  G_m
  D_M
  G_m
  F#d
- G_m
- G_m
  G_m
  D_M
  D_M
@@ -162,29 +158,28 @@
  AbM
  C#d7
  D_M
- C#d7
- G_m
- D_M
- D_M
+ D_M7
  D_M
  G_m
  G_m
  A_M
- A_M
- A_M
- D_m
- D_m
- D_m
  D_m
  A_M
+ A_M
+ D_m
+ D_m
+ D_m
+ D_m
+ G_m
+ D_m
  D_m
  EbM
- EbM
- BbM
  BbM
  F_M
+ F_M7
  D_M7
- C_m
+ D_M7
+ G_m
  D_M
  G_m
  G_m
@@ -192,11 +187,9 @@
  G_m
  C_m
  C_m
- G_M7
  C_m
  G_m
  A_M
- D_m
  A_M4
  A_M
  D_M
@@ -204,18 +197,14 @@
  A_M
  A_M
  A_M
- D_M
- D_M
- F#m
  F#m
  B_M
  B_M
  E_M
- E_M
+ B_M
  B_M
  E_M
  E_M
- D#d
  D#d
  B_M
  B_M
@@ -226,15 +215,20 @@
  B_M
  E_M
  E_M
+ A_M
+ C#M
  C#M
  F#m
  F#m7
  A#d
  A#d
  B_m
+ B_m
+ A_M
  A_M
  E_M
  F#m
+ E_M
  E_M
  A_M
  E_M
@@ -246,37 +240,35 @@
  E_m
  E_m
  F#M
+ B_m
  F#M
  F#M7
  B_m
  F#M
  F#M
  B_M
- B_M
  E_m
  E_m
- D_M
  D_M
  G_M
  B_M7
  E_m
+ A_m6
+ B_M
+ B_M
  E_m
- A_m6
- A_m6
- B_M
- B_M
+ E_m
  E_m
  F#M
- B_m
  F#M
  B_m
  F#M7
+ B_m
+ F#M
  F#M
  B_M
- B_M
  E_m
  E_m
- D_M
  D_M
  G_M
  B_M7
@@ -284,488 +276,467 @@
  E_m
  A_m6
  A_m6
+ A_m6
+ B_M
  B_M
  E_m
  E_m
  E_m
  E_m
- E_m
- A_m
  A_m
  B_M7
  E_m
  D_M
- G_M
  G_M
  G_M
  E_m
  D#d
  E_M
+ F#M
+ F#M
+ F#M
+ F#M
+ B_m
+ D_M
+ G_M
+ G_M
+ G_M
+ G_M
+ E_m
+ E_m
+ B_M7
+ B_M7
+ C_M
+ G_M
+ B_M7
+ E_m
+ E_m
+ A_m6
+ B_M7
+ G_m
+ C_m
+ C_m
+ A_m
+ A_m
+ G_m
+ C_m
+ D_M
+ D_M7
+ G_m
+ A_m7
+ A_m7
+ G_m
+ A_d
+ G_m
+ BbM
+ BbM
+ BbM
+ C_m7
+ F_M
+ F_M
+ D_M
+ G_m
+ F_M
+ F_M
+ BbM
+ BbM
+ G_m
+ C_m
+ F_M
+ BbM
+ F_M
+ BbM
+ BbM
+ D_M
+ G_m
+ G_m
+ C_M7
+ C_M7
+ C_M7
+ C_M7
+ F_M
+ F_M
+ F_M
+ BbM
+ D_M7
+ D_M7
+ G_m6
+ G_m6
+ C_m
+ C_m
+ D_M4
+ D_M4
+ D_M4
+ D_M7
+ G_m
+ G_m
+ G_m7
+ C_m
+ C_m7
+ D_M
+ G_m
+ D_M7
+ G_m
+ G_m
+ F_M
+ BbM
+ G_m7
+ C_m
+ C_m
+ C_m
+ C_m
+ D_M
+ G_m
+ C_m
+ BbM
+ BbM
+ F_M
+ F_M
+ BbM
+ F_M7
+ F_M7
+ F_M7
+ D_M
+ G_m
+ A_m
+ D_M7
+ G_m
+ G_m
+ D_m
+ D_m
+ C_m
+ C_m
+ D_M
+ D_M7
+ G_M
+ E_m
+ D_M
+ G_M
+ D_M
+ F#m
+ B_m
+ G_M
+ F#M7
+ F#M7
+ B_m
+ F#m
+ B_m
+ B_m
+ F#m
+ E_m
+ E_m
+ F#m7
+ B_M7
+ E_m
+ B_M
+ E_m
+ E_m
+ E_m
+ D_M
+ G_M
+ D_M
+ F#m7
+ B_m
+ G_M
+ B_m
+ F#m
+ B_m
+ B_m
+ F#m
+ F#m
+ E_m
+ E_m
+ F#m7
+ B_M7
+ E_m
+ B_M
+ E_m
+ E_m
+ E_m7
+ A_M
+ A_M
+ A_M
+ A_M
+ D_M
+ G_M
+ E_m6
+ F#M
+ B_M
+ E_m
+ E_m
+ E_m
+ E_m
+ A_M7
+ D_M
+ D_M
+ G_M
+ E_m
+ E_m
+ F#M7
+ F#M7
+ B_m
+ F#m
+ B_m
+ B_m
+ F#m7
+ F#m7
+ G_M
+ D_M
+ D_M
+ B_M
+ B_M
+ E_m
+ B_M
+ E_m
+ C_M
+ A_m
+ A_m
+ G_M
+ F#m
+ A_m
+ B_M
+ E_M
+ A_M
+ A_M
+ F#m7
+ D_M
+ D_M
+ E_m
+ E_m6
+ G_M
+ G_M
+ B_M
+ E_M
+ E_M
+ B_M
+ A_M
+ A_M
+ F#m
+ G_M
+ G_M
+ D_M
+ B_M
+ B_M
+ E_M
+ E_M
+ E_M
+ C#m
+ C#m
+ F#M7
+ F#M
+ F#M
+ B_M
+ E_M
+ A_M
+ A_M
+ F#m
+ G_M
+ B_M
+ B_M
+ E_M
+ E_M
+ E_M
+ E_M
+ C#m
+ C#m
+ F#M7
+ B_M
+ B_M
+ F#M
+ F#M
+ B_M
+ E_M
+ C#m
+ C#m
+ B_M
+ B_M
+ F#M
+ F#M
+ B_M
+ B_M
+ E_M
  E_M
  F#M
+ F#M
+ E_M
+ E_M
+ A_M
+ B_m
+ C#M7
+ C#M7
+ C#M
+ C#M
+ C#M7
+ F#m
+ C#M
+ C#M
+ C#M
+ F#m
+ D#d
+ D#d
+ E_M
+ B_M
+ B_M
+ A#d7
+ B_M
+ B_M
+ E_M
+ G_m
+ BbM
+ D_M7
+ G_m
+ D_M
+ EbM
+ F_M7
+ BbM
+ G_m
+ F_M
+ BbM
+ BbM
+ F_M
+ F_M
+ C_m
+ C_m
+ G_m
+ G_m
+ D_M
+ D_M
+ G_m
+ F_M
+ BbM
+ BbM
+ EbM7
+ A_d
+ BbM
+ BbM
+ C_m7
+ C_m7
+ F_M
+ F_M
+ BbM
+ BbM
+ BbM
+ BbM
+ BbM
+ F_M
+ F_M
+ F_M
+ C_M
+ C_M
+ G_m
+ G_m
+ D_m
+ A_d
+ G_M
+ C_m
+ G_M7
+ C_m
+ C_m
+ C_m
+ C_m
+ C_m
+ G_M
+ G_M
+ D_M
+ D_M
+ B_m
+ B_m
+ A_M
+ A_M
+ D_M
+ D_M
+ D_M
+ E_M7
+ F#m
+ B_m7
+ E_M
+ E_M7
+ A_M
+ D_M
+ D_M
+ E_m
+ E_m
+ D_M4
+ D_M4
+ D_M
+ D_M
+ A_M4
+ A_M7
+ A_M7
+ F#m7
+ B_m
+ B_m
+ E_m7
+ E_m7
+ A_M
+ A_M
+ A_M
+ D_M
+ B_m
+ B_m
+ A_M
+ D_M
+ D_M
+ B_m
+ F#m
+ F#m
+ B_m7
+ B_m7
+ E_M4
+ E_M4
+ E_M
+ D_M
+ E_m
+ D_M4
+ D_M
+ A_M4
+ A_M7
+ A_M7
+ F#m7
+ F#m7
+ B_m
+ B_m
+ E_m7
+ E_m7
+ A_M
+ A_M
+ A_M
+ D_M
+ A_M
+ A_M
+ A_M
+ A_M
+ F#m
+ F#m
+ E_m
+ G_M
+ C_M
+ A_m
+ B_M
+ B_M
+ E_m
+ B_M
+ B_M
+ E_m
+ E_m
+ E_m
+ E_m
+ E_m
+ C#m7
+ C#m7
+ C#m7
+ F#M7
  B_m
  F#M
- F#M
  B_m
+ B_m
+ B_m
+ B_m
+ B_m
+ B_m
+ C#m
  C#d
- D_M
- G_M
- G_M
- G_M
- G_M
- D_M
- D_M
- E_m
- B_M7
- B_M7
- C_M
- G_M
- G_M
- E_m
- E_m
- C_M
- A_m6
- B_M
- B_M7
- E_M
- G_m
- C_m
- C_m
- G_m
- G_m
- C_m
- D_M
- D_M7
- G_m
- G_m
- D_M
- D_M
- G_m
- F_M
- F_M
- BbM
- C_m7
- F_M
- F_M
- D_M
- G_m
- F_M
- F_M
- BbM
- BbM
- C_m
- F_M
- BbM
- BbM
- F_M
- BbM
- G_m
- G_m
- C_M7
- C_M7
- C_M7
- C_M7
- F_M
- F_M
- BbM
- D_M7
- D_M7
- G_m6
- G_m6
- D_M4
- D_M4
- D_M7
- G_M
- G_m
- G_m
- C_m
- C_m7
- D_M
- D_M7
- G_m
- D_M7
- C_m7
- D_M
- D_M
- G_m
- G_m
- F_M
- F_M
- F_M
- BbM
- BbM
- G_m
- G_m7
- C_m
- C_m
- G_m
- C_m
- BbM
- BbM
- F_M
- F_M
- F_M7
- F_M7
- BbM
- D_M
- G_m
- G_m
- A_m
- D_M7
- G_m
- D_m
- D_m
- C_m
- C_m
- D_M
- D_M7
- G_M
- E_m
- E_m
- E_m
- D_M
- G_M
- D_M
- F#m
- B_m
- G_M
- B_m
- F#m
- B_m
- F#m
- E_m
- F#m7
- B_M7
- E_m
- B_M
- B_M
- E_m
- E_m
- D_M
- F#m7
- B_m
- G_M
- F#M
- F#M
- B_m
- F#m
- B_m
- B_m
- F#m
- F#m
- E_m
- E_m
- F#m7
- B_M7
- E_m
- B_M
- B_M
- E_m
- E_m
- E_m7
- A_M
- A_M
- A_M
- D_M
- G_M
- G_M
- E_m6
- F#M
- B_M
- E_m
  A_M7
- G_M
- G_M
- E_m
- E_m
- F#M7
- F#M7
- B_m
- F#m
- B_m
- F#m7
- G_M
- G_M
- D_M
- D_M
- B_M
- E_m
- B_M
- E_m
- E_m
- C_M
- C_M
- A_m
- A_m
- G_M
- F#m
- F#m
- A_m
- A_m
- B_M
- E_m
- E_M
- A_M
- F#m7
- F#m7
- D_M
- D_M
- E_m
- E_m6
- G_M
- G_M
- F#M7
- F#M7
- B_M
- E_M
- E_M
- B_M
- A_M
- E_M7
- A_M
- F#m
- G_M
- G_M
- D_M
- B_M
- E_M
- E_M
- E_M
- C#m
- C#m
- F#M7
- F#M7
- B_M
- F#M
- B_M
- E_M
- E_M
- B_M7
- A_M
- A_M
- E_M7
- A_M
- F#m
- G_M
- G_M
- D_M
- B_M
- E_M
- E_M
- E_M
- E_M
- C#m
- C#m
- F#M7
- B_M
- B_M
- F#M
- E_M
- C#m
- C#m
- B_M
- B_M
- F#M
- B_M
- B_M
- E_M
- E_M
- F#M
- F#M
- B_M
- E_M
- E_M
- E_M
- A_M
- B_m
- B_m
- C#M7
- C#M7
- C#M
- C#M
- C#M7
- C#M7
- F#m
- F#m
- C#M
- C#M
- C#M
- C#M
- F#m
- D#d
- D#d
- E_M
- B_M
- B_M
- A#d7
- A#d7
- B_M
- B_M
- E_M
- G_m
- F_M
- BbM
- D_M7
- G_m
- EbM
- F_M7
- BbM
- G_m
- C_m7
- C_m7
- F_M
- BbM
- F_M
- F_M
- C_m
- C_m
- G_m
- D_M
- G_m
- F_M
- BbM
- D_M
- A_d
- BbM
- C_m7
- C_m7
- F_M
- F_M
- BbM
- BbM
- BbM
- BbM
- F_M
- F_M
- F_M
- F_M
- F_M
- C_M
- C_M
- G_m
- D_m
- A_d
- G_M
- G_M
- C_m
- G_M7
- C_m
- C_m
- C_m
- G_M
- G_M
- G_M
- D_M
- D_M
- B_m
- B_m
- A_M
- A_M
- D_M
- D_M
- E_M7
- F#m
- F#m
- B_m7
- B_m7
- E_M4
- E_M
- E_M7
- A_M
- D_M
- D_M
- E_m
- E_m
- D_M4
- D_M4
- D_M
- A_M4
- A_M7
- A_M7
- F#m7
- F#m7
- B_m
- B_m
- E_m7
- E_m7
- A_M
- A_M
- A_M
- D_M
- D_M
- B_m
- B_m
- A_M
- A_M
- D_M
- D_M
- B_m
- E_M7
- F#m
- F#m
- B_m7
- E_M4
- A_M
- D_M
- D_M
- E_m
- E_m
- D_M
- D_M
- A_M4
- A_M7
- A_M7
- F#m7
- F#m7
- B_m
- B_m
- E_m7
- E_m7
- A_M
- A_M
- A_M
- A_M
- A_M
- A_M
- F#m
- E_m
- G_M
- G_M
- C_M
- C_M
- A_m
- F#m
- B_M
- B_M
- B_M
- E_m
- B_M
- B_M
- B_M
- B_M
- B_M
- B_M
- E_m
- E_m
- E_m
- E_m
- E_m
- C#m7
- C#m7
- C#m7
- F#M7
- B_m
- F#M
- B_m
- B_m
- B_m
- B_m
- B_m
- B_m
- C#m
- C#m
- A_M7
- D_M
  D_M
  A_M4
  A_M4
@@ -779,60 +750,66 @@
  D_M
  D_M
  A_M4
- A_M4
+ A_M7
+ A_M7
  D_M
  BbM
  F_M
- BbM
  EbM
  EbM
  BbM
- F_M
  F_M
  BbM
  EbM
  EbM
  F_M
  EbM
- EbM
  BbM
+ EbM
  EbM
  F_M
  F_M7
  BbM
  BbM
+ BbM
  F_M
  F_M
  BbM
  EbM
  EbM
- BbM
  F_M
  F_M
  EbM
  EbM
+ F_M
+ EbM
  EbM
  BbM
  BbM
- EbM
  EbM
  F_M
- F_M
  BbM
  BbM
+ BbM
+ EbM
  EbM
  C_M
  C_M
  F_M
+ F_M
+ F_M7
  F_M7
  BbM
  BbM
  BbM
- BbM
  EbM
+ EbM
+ BbM
  BbM
  C_M
  BbM
+ BbM
+ F_M
  F_M
  G_m
  C_M4
@@ -842,9 +819,9 @@
  F_M
  BbM
  EbM
- EbM
  BbM
  BbM
+ F_M
  F_M
  BbM
  BbM
@@ -853,38 +830,36 @@
  F_M4
  F_M
  F_M
+ BbM
  BbM
  EbM
  A_d
  BbM
  BbM
  F_M
- EbM
- BbM
- BbM
+ F_M7
  BbM
  BbM
  F_M
  D_m
  G_m7
  C_M7
- D_m
- G_m
- G_m
- F_M
- F_M
- BbM
  F_M
  G_m
  F_M
  BbM
  BbM
+ BbM
+ F_M
+ D_M
+ BbM
+ BbM
+ G_M7
  C_m
  C_m
  G_M
  BbM
  BbM
- F_M
  F_M
  F_M
  F_M
@@ -895,35 +870,28 @@
  BbM
  C_M7
  F_M
- F_M7
- BbM
- C_m
- C_m
- BbM
- C_m
- C_m
  BbM
  BbM
- F_M
+ BbM
+ BbM
+ BbM
  F_M
  BbM
  A_m
  F_M
  G_M7
+ G_M7
  C_M
  D_M
  G_M
- C_M
- C_M
  D_M
  E_M
- A_m
  A_m
  A_m
  A_m
  D_m6
  E_M
- A_m
+ E_M
  A_m
  A_m
  F_M
@@ -938,32 +906,35 @@
  A_m
  A_m
  A_m
+ A_m
  D_m6
  E_M
  E_M
  A_m
  C_M
- G#d
+ C_M
  A_m
+ A_m
+ G#d7
  G#d7
  A_m
  A_m
+ E_M
  A_m
  G_M7
  G_M7
  C_M
  C_M
- A_m
- A_m
+ D_M
  D_M
  D_M
  D_M
  G_M
  G_M
- C_M
  D_m
  D_m
  C#d7
+ A_M7
  A_M7
  D_m
  D_m
@@ -973,37 +944,33 @@
  A_m
  A_m
  A_m
- A_m
  D_m6
  E_M
  E_M
  A_M
+ D_M
+ D_M
+ D_M6
+ E_M
+ A_M
+ C#M
+ C#M
+ C#M
+ F#m
+ F#m7
+ E_M
+ A_M
+ D_M
+ E_M
  A_M
  F#m
  C#m
  D_M
- E_m7
- A_M
- D_M6
- E_M
- A_M
- A_M
- A_M
- C#M
- C#M
- F#m
- F#m7
- E_M
- D_M
- E_M
- A_M
- A_M
- F#m
  D_M
  E_M7
  A_M
  D_M6
- E_M
+ A_M
  A_M
  A_M
  C#M
@@ -1017,14 +984,11 @@
  E_M
  A_M
  A_M
- A_M
- F_d
+ G#d
  F#m
  C#M
  F#m
- B_m6
  C#M
- F#m
  B_M7
  E_M
  E_M
@@ -1033,21 +997,18 @@
  F#m
  B_M
  B_M
- E_M
  C#m
- F#m
  A_M
  D_M
  E_M
- B_M
  E_M
- A_M
  A_M
  A_M7
  D_M
- A_M
  B_m
  B_m
+ B_m
+ G_M
  G_M
  C#d
  F#M7
@@ -1058,24 +1019,22 @@
  B_M
  E_M
  A_M
- F#m
+ A_M
  B_m
  B_m7
  G_M
  E_m6
  F#m
- D_M
+ E_m6
  A_M
  B_M
  B_M
  A_M
  B_M4
- B_M
  E_M
  C#m
  F#m
  F#m
- E_M
  B_M
  B_M
  C#m
@@ -1083,38 +1042,19 @@
  A_M
  A_M7
  B_M7
+ E_M
  C#M
  F#m
  E_M
  A_M
  E_M
- E_M
  F#m
- D_M
+ F#m
  D_M
  A_M
  E_M
  E_M7
  A_M
- G_M
- C_m
- C_m
- G_M
- C_m
- C_m
- C_m
- C_m
- C_m
- G_m
- G_m
- C_m
- C_m
- C_m
- C_m6
- G_m
- G_m
- D_M7
- G_M
  G_M
  C_m
  C_m
@@ -1126,30 +1066,50 @@
  G_M
  C_m
  C_m
- G_m
- G_m
  C_m
  C_m
+ C_m
+ C_m6
  C_m6
  G_m
  G_m
  D_M7
+ C_m
+ C_m
+ C_m
+ F_M7
+ C_m
+ C_m
+ G_M
+ C_m
+ C_m
+ C_m
+ G_m
+ G_m
+ C_m
+ C_m
+ C_m
+ C_m
+ C_m6
+ C_m6
+ G_m
+ G_m
  D_M7
  G_M
- G_m
+ BbM
+ BbM
  BbM
  BbM
  EbM
  EbM
  C_m
+ C_m
  EbM
  EbM
  BbM
- EbM
+ BbM
  C_m
  C_m
- G_M
- G_M
  C_m
  C_m
  F_m
@@ -1158,9 +1118,8 @@
  F_m
  G_M4
  G_M
- C_m
  G_M
- C_m
+ G_M
  C_m
  F_m7
  F_m7
@@ -1168,16 +1127,20 @@
  C_m6
  C_m6
  BbM
+ BbM
+ C_M7
  C_M7
  F_M
+ F_M
  BbM
- BbM
+ C_m
  C_m
  C_m
  G_m
+ G_m
+ D_M
  D_M
  EbM
- C_m6
  D_M
  D_M
  G_M
@@ -1186,41 +1149,46 @@
  C_M
  C_M
  D_M
+ C_M
  D_M7
+ G_M
  A_m
  D_M
  G_M
  C_M
  G_M
  C_M
- C_M
  F_M
  C_M
  D_m7
  G_M
  C_M
  C_M
+ C_M
+ C_M
  D_M
+ C_M
  D_M7
  G_M
+ A_m
  D_M
  G_M
+ C_M
  C_M
  C_M
  C_M
  F_M
  C_M
  D_m7
- G_M
  C_M
  C_M
- F_M
  C_M7
+ F_M
  C_M
  D_m7
  G_M
  C_M
- C_M7
+ C_M
  C_M7
  C_M7
  C_M7
@@ -1228,7 +1196,6 @@
  D_M
  F_M
  F_M
- C_M
  C_M
  C_M
  C_M
@@ -1237,12 +1204,11 @@
  F_M
  G_M
  G_M
- C_M
- F_M
+ C_M7
  C_M
  C_M
  G_M7
- C_M
+ G_M7
  D_m
  G_M
  C_M
@@ -1250,39 +1216,44 @@
  G_M
  G_M
  G_M
+ G_M7
  C_M
  A_M
  A_M
  D_m
- BbM
- BbM
- BbM
- F_M
- F_M
- C_M7
- C_M7
- F_M
- F_M
- F_M
- C_M
- C_M
- D_m
- C_M
- F_M
- G_m
- G_m
- C_M
- F_M
- F_M
- F_M
  D_m
  BbM
  BbM
+ F_M
+ F_M
+ F_M
+ C_M7
+ C_M7
+ C_M7
+ F_M
+ F_M
+ C_M
+ D_m
+ D_m
+ C_M7
+ F_M
+ F_M
+ G_m
+ C_M
+ C_M
+ F_M
+ F_M
+ F_M
+ D_m
+ D_m
+ BbM
+ BbM
  BbM
  C_M7
  F_M
  C_M7
  F_M
+ D_m
  D_m
  F_M
  F_M
@@ -1294,15 +1265,16 @@
  F_M
  C_M4
  C_M4
+ C_M7
  F_M
+ G_M
  C_M
  F_M
- F_M
- G_m7
  G_m7
  C_M7
  C_M7
  F_M
+ C_d6
  G_M7
  C_m
  C_m
@@ -1310,7 +1282,6 @@
  F_m6
  F_m6
  F_m6
- G_M
  G_M
  C_M
  C_M
@@ -1324,7 +1295,8 @@
  F_M4
  F_M4
  F_M4
- F_M7
+ BbM
+ C_M7
  F_M7
  D_m
  D_m
@@ -1335,7 +1307,10 @@
  F_M
  C_M
  G_M
+ C_M
+ G_M
  A_m
+ G_M
  D_M
  D_M
  G_M
@@ -1343,18 +1318,21 @@
  G_M
  G_M
  C_M
- C_M
  G_M
  G_M
  G_M
  C_M
  C_M
+ G_M
+ G_M
  G_M
  C_M
  C_M
  G_M
  A_m
+ A_m
  G_M
+ D_M
  D_M
  G_M
  C_M
@@ -1364,10 +1342,8 @@
  C_M
  G_M
  G_M
- G_M
  C_M
  C_M
- G_M
  G_M
  G_M
  C_M
@@ -1377,9 +1353,8 @@
  F_M
  C_M7
  F_M
- F_M
  A_M7
- A_M7
+ D_m
  D_m
  D_m
  A_M
@@ -1387,7 +1362,6 @@
  C_M
  C_M
  F_M
- F_M
  G_M
  F_M
  F_M
@@ -1399,35 +1373,31 @@
  C_M
  D_m
  D_m
+ C_M
  C_M
  F_M
  F_M
  D_M
  D_M
- G_M
- A_m
- C_M7
- C_M7
- C_M7
- D_m
- D_m
- C_M
- G_M
- C_M
- C_M
- G_M
- C_M
- A_m
- A_m
  E_M
  A_m
- D_M
+ C_M7
+ C_M7
+ C_M
+ C_M
+ C_M
+ C_M
+ G_M4
  G_M
+ C_M
+ E_M
+ A_m
  G_M
  G_M
  G_M
  G_M
  E_M
+ A_m
  A_m
  A_m
  A_m
@@ -1436,11 +1406,9 @@
  E_M
  A_m
  A_m
- A_m
  E_M
+ A_m
  D_M
- G_M
- G_M
  G_M
  G_M
  E_M
@@ -1448,6 +1416,7 @@
  A_m
  A_m
  D_m6
+ E_M7
  E_M7
  A_m
  A_m
@@ -1457,26 +1426,28 @@
  D_m6
  E_M
  D_m
- A_m
+ E_M
+ E_M
+ G_M
  C_M
  C_M
  A_m
- D_M
+ A_m
  D_M
  D_M
  D_M
  G_M
  G_M7
+ C_M
  D_m
  C_M
  C_M
+ A_m
  A_m
  B_m7
  B_m7
  D_M
  G_M
- E_M
- A_m
  A_m
  A_m
  A_m
@@ -1488,10 +1459,12 @@
  B_m
  D_M
  F#m
+ F#m
  G_M
  E_m
  E_m
- B_m
+ F#m
+ F#m
  B_m
  E_m
  A_M
@@ -1500,13 +1473,12 @@
  D_M
  D_M
  D_M
- D_M
  F#M
  F#M
  B_m
  B_m
  B_m
- B_m
+ A_M7
  A_M7
  D_M
  D_M
@@ -1519,12 +1491,15 @@
  B_m
  D_M
  F#m
+ F#m
  G_m
- G_m
+ E_m
  E_m
  F#m
  F#m
  B_m
+ B_m
+ E_m7
  A_M
  D_M
  D_M
@@ -1540,67 +1515,66 @@
  A_M7
  A_M7
  D_M
+ D_M
+ E_m7
+ A_M
  A_M
  D_M
  D_M
  G_M
  G_M
- A_M7
- A_M7
  A_M7
  A_M7
  A_M4
  A_M
  A_M
  F#M
+ F#M
  B_m
  E_m6
  E_m6
  F#M
  F#M
- B_m
- A_M
  A_M
  E_M
- E_M
+ E_M7
  E_M7
  A_M
  A_M
+ D_M
+ D_M
  B_m7
  E_M
- E_M
- A_M
  A_M
  D_M
- B_m
+ D_M
  B_m
  G_M
- E_m7
+ G_M
  E_m7
  A_M
  A_M
  A_M
- A_M
  D_M
  A_M
- A_M
- D_M
  D_M
  G_M
  G_M
  G_M
+ G_M
+ E_m
+ E_m
  E_m
  A_m
  C_M
- C_M
+ A_m6
  B_M7
- E_m
+ B_M7
  A_M
  D_M
  D_M
  B_m
  B_m
- E_m
  E_m
  E_m
  E_m
@@ -1610,8 +1584,7 @@
  D_M
  D_M
  D_M7
- G_M
- G_M
+ D_M
  D_M
  E_M
  E_M
@@ -1619,11 +1592,10 @@
  E_M7
  A_M
  A_M
- D_M
- D_M
  B_m7
  E_M
- E_M
+ A_M
+ A_M
  A_M
  D_M
  E_M
@@ -1631,71 +1603,72 @@
  B_M7
  B_M7
  C#M7
+ C#M7
  F#m
  F#m
  A_M
  D_M
+ D_M
  A_M
- G_M
+ D_M
  G_M
  D_M7
  D_M7
  A_M7
- D_M
+ A_M7
  D_M
  G_M6
- A_M
+ G_M6
  D_M
- E_M
- A_M
- A_M
- B_M
- B_M
- B_M7
- B_M7
- E_M
- B_M7
- B_M7
- E_M
- F#m
- E_M
- A_M
- B_m
- A_M
- A_M
- E_M
- E_M
- A_M
  A_M
  E_M
  A_M
  B_M
- B_M
- B_M7
  B_M7
  E_M
  E_M
  A_M6
- B_M
+ B_M7
  E_M
  F#m
  E_M
  E_M
  A_M
  A_M
- B_m7
+ B_m
+ B_m
+ A_M
+ E_M
+ E_M
+ A_M
+ A_M
+ E_M
+ A_M
+ B_M
+ B_M
+ B_M7
+ B_M7
+ E_M
+ B_M
+ B_M
+ F#m
+ E_M
+ E_M
+ A_M
+ A_M
  B_m7
  A_M
  A_M
+ E_M
  E_M
  A_M
  A_M
  G_M
  G_M
  E_m6
+ F#M7
  B_m
  E_M7
- F#M
  F#M
  G_M
  F#M
@@ -1705,8 +1678,8 @@
  B_m
  E_M
  E_M
- D_M
  E_M7
+ A_M
  A_M
  E_M
  A_M
@@ -1715,14 +1688,14 @@
  A_M
  D_M
  D_M
+ C#M
+ B_m
+ B_m
  F#m
- B_m
- B_m
  F#m
  C#M
  C#M
  F#m
- F#M
  F#M
  F#M7
  F#M7
@@ -1733,15 +1706,36 @@
  E_M
  A_M
  A_M
- A_M
  E_M
  E_M
  E_M
  E_M
  A_M
+ C_M
  C_M
  C_M
  D_M7
+ D_M7
+ G_M
+ G_M
+ C_M
+ C_M
+ C_M
+ F_M
+ F_M
+ C_M
+ C_M
+ C_M
+ A_m
+ A_m
+ E_m
+ F_M
+ F_M
+ G_M7
+ C_M
+ C_M
+ C_M
+ C_M
  D_M7
  G_M
  G_M
@@ -1754,70 +1748,42 @@
  C_M
  C_M
  C_M
- C_M
- C_M
- A_m
  A_m
  E_m
  F_M
  F_M
- C_M
- C_M
- C_M
- C_M
- C_M
- C_M
- D_M7
- D_M7
- G_M
- G_M
- C_M
  G_M7
- F_M
- F_M
  C_M
- C_M
- C_M
- C_M
- C_M
- C_M
- A_m
- E_m
- F_M
- F_M
  C_M
  C_M
  D_m7
  G_M
- G_M
- C_M
  C_M
  G_M
  G_M
  G_M
  A_m
- C_M
+ A_m
  C_M
  C_M7
  C_M7
  F_M
- G_M7
+ F_M
  G_M7
  C_M
  C_M
- A_m
  A_m
  D_M7
  G_M
  G_M
+ G_M
+ G_M
+ G_M
+ D_M
  D_M
  G_M
  G_M
- D_M
- D_M
  G_M
- G_M
- C_M
  C_M
  C_M
  C_M
@@ -1830,19 +1796,16 @@
  C_M
  C_M
  D_m7
- D_m7
- G_M
  G_M
  G_M
  C_M
- G_M
- G_M
  D_M
+ G_M
  D_M
  E_m
  E_m
  D_M
- D_M
+ A_M
  A_M
  D_M
  E_m
@@ -1862,41 +1825,37 @@
  D_M
  D_M
  E_m
- E_m
- D_M
  D_M
  A_M
  D_M
  E_m
  D_M
  G_M
+ A_m
+ G_M
+ G_M
+ D_M
+ D_M
+ G_M
+ G_M
+ G_M
+ D_M
+ C_M
+ D_M
+ D_M
+ G_M
+ G_M
+ G_M
+ G_M
+ C_M
+ C_M
+ D_M
+ C_M
+ G_M
+ G_M
+ D_M
  G_M
  A_m
- A_m
- D_M
- D_M
- G_M
- G_M
- G_M
- C_M
- D_M
- C_M
- C_M
- G_M
- D_M
- D_M
- G_M
- G_M
- G_M
- G_M
- C_M
- C_M
- D_M
- C_M
- C_M
- G_M
- G_M
- G_M
  A_m
  G_M
  G_M
@@ -1908,16 +1867,23 @@
  G_M
  G_M
  C_M
+ G_M
+ G_M
  D_M
  C_M
  C_M
+ G_M
  D_M7
  G_M
  G_M
+ D_M4
+ D_M
  G_M
+ A_m
  A_m
  C_M
  C_M
+ F_M
  F_M
  C_M
  C_M
@@ -1926,45 +1892,49 @@
  G_M
  G_M
  A_m7
- D_M7
  C_M
  G_M
  C_M
  C_M
  G_M
- A_m
- E_m
- E_m
- E_m
- E_m
+ G_M
  A_m
  A_m
- G#d
+ E_m
+ E_m
+ E_m
+ E_m
+ A_m
  G#d
  G#d7
  G#d7
  A_m
  A_m
  D_m7
+ D_m7
  E_M
  E_M
+ E_M
+ A_m
  A_m
  C_M
  C_M
  C_M
  F_M
+ F_M
+ C_M
+ C_M
  C_M
  C_M
  G_M
  G_M
  A_m
- A_m
  C_M
  G_M
  C_M
+ C_M
  G_M
  G_M
- A_m
  A_m
  E_m
  E_m
@@ -1973,9 +1943,10 @@
  A_m
  A_m
  G#d
+ G#d
+ G#d7
  G#d7
  A_m
- A_m
  D_m7
  D_m7
  E_M
@@ -1986,15 +1957,16 @@
  D_m7
  D_m7
  D_m
- D_m
- E_M
  E_M
  A_m
  D_m
  A_M7
  A_M7
+ D_m
+ E_M
  F_M
  G_M
+ C_M
  C_M
  C_M
  D_M7
@@ -2003,45 +1975,49 @@
  A_m
  A_m
  G_M
+ G_M
  A_M
  A_M
  E_m
- E_m
- A_M
  A_M
  D_m
  D_m
+ D_m
+ A_M
  F_M
  G_M7
  G_M7
  C_M
  C_M
  C_M
- G_M
+ C_M
  C_M
  D_M
- D_M
+ E_M
  E_M
  A_m
  A_m
  A_m
+ A_m
  F_M6
  F_M6
- C_M
  C_M
  C_M
  D_m6
  E_M
+ E_M
+ A_M
+ B_m
  B_m
  E_m6
  F#m
  F#m
- B_m
  B_m
  B_m
  E_m6
  E_m6
  F#M7
+ B_m
  B_m
  B_m
  B_m
@@ -2053,118 +2029,121 @@
  D_M
  D_M
  D_M
+ G_M
  D_M
  D_M
- D_M
- D_M
- G_M
- E_m
- F#M
- B_m
- C#M
- C#M
- F#m
- F#m
- B_m
- B_m
- F#M
- F#M4
- F#M4
- F#M
- B_M
- E_M7
- A_m
- G_M
- C_M
- C_M
- A_m6
- E_M
- E_M
- A_m
- G_M7
- C_M
- C_M
- C_M
- C_M
- D_m
- D_m
- E_M
- E_M7
- A_m
- G_M
- C_M
- C_M
- A_m6
- E_M
- E_M
- A_m
- G_M7
- G_M7
- C_M
- D_m
- D_m
- E_M
- G_M
- A_m
- A_m
- D_m
- D_m
- D_m
- A_m
- A_m
- E_m
- G_M
- G_M
- C_M
- G_M
- D_M7
- D_M7
- G_M
- C_M
  A_M
+ A_M
+ D_M
+ D_M
+ G_M
+ E_m
+ E_m
+ F#M
+ F#M
+ B_m
+ B_m
+ C#M
+ F#m
+ B_m
+ B_m
+ F#M
+ F#M4
+ F#M4
+ F#M
+ G#d
+ A_m
+ G_M
+ C_M
+ C_M
+ E_M
+ A_m
+ G_M7
+ G_M7
  F_M
+ C_M
+ D_m
+ D_m
+ E_M
+ E_M7
+ G#d
+ A_m
+ G_M
+ G_M
+ A_m6
+ E_M
+ E_M
+ A_m
+ G_M7
+ G_M7
+ C_M
+ F_M
+ C_M
+ C_M
+ D_m
+ D_m
+ A_m
+ G_M
+ A_m
+ A_m
+ G_M
+ D_m
+ D_m
+ D_m
+ E_M
+ A_m
+ A_m
+ E_m
+ C_M
+ C_M
+ C_M
+ G_M
+ G_M
+ D_M7
+ G_M
+ C_M
+ E_M
+ E_M
+ F_M
+ C_M
+ D_m
+ E_M7
+ E_M
+ BbM
+ F_M
+ BbM
+ F_M
+ G_m7
+ F_M
+ F_M
+ C_M
+ C_M
+ F_M
+ G_m
+ F_M
+ BbM
+ BbM
+ EbM
+ BbM
+ F_M
+ F_M
+ BbM
+ BbM
+ BbM
+ F_M
+ G_m7
+ F_M
+ C_M
  C_M
  G_m
- E_M7
- A_m
- BbM
- F_M
- BbM
- G_m7
- F_M
- C_M
- C_M
- F_M
  F_M
  BbM
  BbM
- EbM
- BbM
  BbM
  F_M
- F_M
- BbM
- BbM
- F_M
- BbM
- F_M
- G_m7
- G_m7
- F_M
- F_M
- C_M
- C_M
- F_M
- BbM
- BbM
- EbM
- BbM
- BbM
- F_M
- BbM
  BbM
  C_m
- D_m
+ C_m
  B_d7
  B_d7
  C_m
@@ -2179,24 +2158,23 @@
  EbM
  F_M
  EbM
+ EbM
  BbM
  BbM
  F_M
- BbM
  BbM
  BbM
  C_m7
  BbM
- BbM
- EbM
  EbM
  A_d
  BbM
  BbM
+ D_M
+ G_m
  G_m
  G_m
  D_d7
- C_m
  C_m
  G_m6
  F_M
@@ -2204,74 +2182,73 @@
  BbM
  F_M4
  F_M
- F_M7
  BbM
  G_M
  D_M
  G_M
  E_m7
- E_m7
  D_M
- D_M
- A_M
- D_M
- E_m
- D_M
- G_M
- G_M
- G_M
- D_M
- G_M
- G_M
- E_m7
  D_M
  A_M
  A_M
  D_M
+ E_m
  D_M
  G_M
  G_M
  C_M
+ G_M
+ G_M
  D_M
  D_M
  G_M
  G_M
+ D_M
+ G_M
+ D_M
+ E_m7
+ E_m7
+ A_M
+ A_M
+ D_M
+ E_m
+ D_M
+ G_M
+ C_M
+ G_M
+ G_M
+ D_M
  A_m
  A_m
- B_m
  B_m
  B_m
  A_m
  A_m
  E_m
  E_m
+ A_m
  B_M
  G_M
+ G_M
+ G_M
  C_M
  C_M
  D_M
  C_M
- C_M
  G_M
  G_M
  D_M
  G_M
- G_M
- G_M
  A_m7
  A_m7
- G_M
  G_M
  C_M
  C_M
  F#d
  G_M
- B_M
  E_m
- C_M
  B_d7
- A_m
- A_m
+ C#d7
  D_M
  D_M
  G_M
@@ -2280,44 +2257,44 @@
  D_M
  D_M7
  G_M
- D_m
  A_m
  BbM
  E_d
- F_M
  G_M
+ C_M
+ A_m
  A_m
  F_M
- F_M
  D_m7
  D_m7
  D_m7
- D_m7
+ G_m7
+ G_m7
  G_m7
  G_m7
  A_M
- D_m
  D_M
  D_M
  G_m
  G_m
- D_m
- BbM
- BbM
  E_M
- A_m
+ D_m
+ D_m
+ BbM
+ BbM
  A_m
  C_m6
+ D_M7
  G_m
- G_m
+ EbM
  EbM
  C_m
  C_m
  D_M
  D_m
- D_m
  G_M7
  G_M7
+ C_M7
  C_M7
  A_m
  A_m
@@ -2325,8 +2302,6 @@
  D_M7
  E_M
  A_M
- C#d
- D_m
  C#d
  D_m
  A_M4
@@ -2338,21 +2313,26 @@
  C_M
  C_M
  A_M
+ D_m
  C_M7
  A_M
- BbM
  D_m
+ BbM
+ BbM
+ C#d
  D_m
  D_m
  A_M
  D_M
  F_m
+ F_M7
  Bbm
- Bbm
+ F_m
  Bbm6
  Bbm6
  C_M
  C_M
+ F_m
  F_m
  F_m
  F_m7
@@ -2361,26 +2341,22 @@
  AbM
  AbM
  Bbm
- EbM
+ Bbm
  AbM
  DbM
  G_m
  C_M7
  DbM
- DbM
  Bbm6
  C_M
- F_m
  F_M
  F_M
- F_M
- F_M
- Bbm
  Bbm
  Bbm
  EbM
  EbM
  EbM
+ AbM
  AbM
  DbM
  DbM
@@ -2388,39 +2364,46 @@
  DbM
  Bbm
  Bbm
- C_d7
+ Bbm
+ Bbm
  C_d7
  F_M
  Bbm
  C_M7
- F_m
+ G_m7
  G_m7
  F_m
  Bbm6
  C_M
- C_M
  F_m
  F_m
  F_m
  F_m
+ F_m
+ C_m
  C_m
  C_m
  G_M4
  G_M
  G_M
  C_M
- C_M
  F_M
  F_M
  F_M
  F_M
  Bbm
  AbM
+ AbM
+ EbM
+ EbM
  EbM
  EbM
  AbM
+ AbM
  DbM
  DbM
+ DbM
+ Bbm
  Bbm
  Bbm
  Bbm
@@ -2430,71 +2413,67 @@
  EbM
  C_m
  C_m
- C_m
- F_m
- F_m
  F_m
  F_m
  F_m
  F_m
  C_M
- F_M
- BbM
- BbM
- BbM
- G_m
- G_m
+ C_M
  F_M
  F_M
- F_M7
- BbM
- C_m
- C_m
- BbM
- BbM
- F_M
- F_M7
- BbM
- BbM
  BbM
  F_M
  BbM
  G_m
  F_M
  F_M
- F_M
  F_M7
  F_M7
  BbM
  C_m
+ F_M
+ F_M7
+ BbM
+ BbM
+ G_m
+ F_M
+ F_M
+ F_M7
+ F_M7
+ C_m
+ C_m
+ BbM
+ BbM
  BbM
  BbM
  F_M
- BbM
  F_M
  BbM
  EbM
  BbM
- EbM
  EbM
  F_M
  F_M
  D_m
  G_m7
- G_m7
  EbM
  F_M
  BbM
  C_M
  C_M
+ F#d7
  G_m
  F_M
  BbM
  BbM
+ F_M4
+ F_M
  F_M
  BbM
  B_m
+ B_M7
  F_d
+ F#m
  F#m
  F#m
  A_M
@@ -2513,18 +2492,20 @@
  D_M
  A_M
  D_M
+ G_M
  A_M
  A_M7
  D_M
  A_M
  D_M
- Abd
+ A_M
  A_M
  D_M
  D_M
  D_M
  D_M
- C_M
+ G_M
+ G_M
  C_M
  F#d
  F#d
@@ -2533,39 +2514,33 @@
  B_m
  A_M
  E_m
- E_m
  D_M
- D_M
- A_M
  A_M
  E_m
- A_M
+ E_m
  D_M
  A_M
  D_M
  D_M
  D_M
- G_M
+ D_M
  G_M
  E_m
  E_m
  B_M7
+ E_m
  B_M
  E_m
  G_M
  A_M7
  D_M
+ D_M
+ D_M
+ D_M
+ D_M
  A_M
  D_M
  D_M
- D_M
- D_M
- D_M
- A_M
- D_M
- D_M
- G_M
- G_M
  G_M
  G_M
  D_M
@@ -2582,10 +2557,10 @@
  E_m
  E_m
  E_m
- Ebd
  E_m
  B_M
  D_M
+ E_m
  E_m
  D_M
  D_M
@@ -2596,9 +2571,11 @@
  F#m
  F#m
  G_M
+ G_M
+ G_M
  D_M
  D_M
- D_M
+ B_m
  B_m
  B_m
  B_m
@@ -2617,22 +2594,25 @@
  B_m
  B_m
  F#m
- A_m
+ F#m
+ B_M
  E_m
  B_M
  E_m
  E_m
+ E_m
+ E_m
  B_m
  B_m
  B_m
- B_m
- G_M
  G_M
  G_M
  G_M
  D_M
  D_M
  D_M
+ D_M
+ B_M7
  E_m
  E_m
  F#M7
@@ -2649,39 +2629,28 @@
  B_m
  B_m
  B_m
- B_m
- B_m
- B_m
- B_m
- B_m
  F#M
  F#M
  F#M
+ G_m
+ G_m
  G_m
  G_m
  G_m
  G_m
  D_M
- G_m
- G_m
  F#d
  G_m
  D_M
  G_m
  G_m
  G_m
- G_m
- Dbd7
  D_m
- Dbd
+ D_m6
  D_m
- D_m
- A_M
  A_M
  D_M
  G_m
- G_m
- D_M
  G_m
  G_m
  G_m
@@ -2689,27 +2658,22 @@
  C_m
  BbM
  F_M
- BbM
  C_m7
  F_M
  D_M
  D_M
  G_m
+ C_m6
  D_M4
  D_M
- G_M
  B_m
  B_m
- B_m
+ D_M
  D_M
  DbM
  DbM
  DbM
- F#m
- G_M
  A_M7
- A_M7
- D_M
  A_M4
  A_M
  A_M
@@ -2718,14 +2682,13 @@
  A_M
  D_M
  G_M
- B_m
+ E_m
+ E_m
  B_m7
  B_m7
  E_m
  E_m
  E_m
- E_m
- F#M
  B_m
  B_m
  B_m
@@ -2736,23 +2699,19 @@
  DbM
  F#m
  G_M
- A_M7
- A_M7
- D_M
  D_M
  A_M
  A_M
  A_M
+ D_M
  D_M
  A_M
  D_M
  G_M
  G_M
+ E_m
  E_m
  B_m
- B_m7
- B_m7
- E_m
  E_m
  E_m
  E_m
@@ -2760,20 +2719,21 @@
  B_m
  B_m
  E_m
- A_M
- D_M
+ B_m
  Bbd
+ B_m
  F#M
  F#M
  B_m
+ Dbd7
+ F#M
+ F#M7
+ B_m
+ E_m6
  E_m
- F#M7
- F#M7
- E_m
  F#M
  F#M
  B_M
- E_M
  E_M
  E_M
  E_M
@@ -2782,15 +2742,9 @@
  A_M
  F#m
  F#m
- F#m
- B_M
- B_M
- B_M
- B_M
  B_M
  E_M
  B_M
- B_M
  F#M
  F#M
  F#M7
@@ -2798,26 +2752,24 @@
  B_M
  B_M
  F#M7
- F#M7
- B_M
  B_M
  Dbm7
  Dbm7
  F#M
- E_M
+ F#M
+ B_M
  E_M
  E_M
  E_M
  A_M
  A_M
  F#m
- B_M7
+ F#m
  B_M7
  D_M
  E_M
  Abm
  Abm
- DbM7
  Dbm7
  F#m
  F#m
@@ -2828,12 +2780,15 @@
  E_M
  E_M
  F#m
+ F#m
  B_M
  B_M
+ B_M
  E_M
  E_M
  E_M
- A_M
+ E_M
+ E_M
  A_M
  A_M
  A_M
@@ -2843,51 +2798,57 @@
  AbM
  C#m
  G#m
+ G#m
  E_M
  E_M
  B_M7
+ B_M7
+ C#m7
  C#m7
  B_M
  B_M
  B_M
- E_M
  E_m
  E_m
  E_m
  E_m
+ E_m
+ D_M
  Dbm
  Dbm
- B_m
+ F#M
  B_m
  B_m
  B_m
  G_M
+ G_M
+ E_m7
  E_m7
  F#M
- B_M
+ F#M
+ F#M7
  F#M7
  B_m
  B_m
  A_M
- A_M
  D_M
  G_M
- G_M
  A_m
  A_m
+ E_m
  A_m
- B_M
  B_M
  E_m
+ E_m
  B_M
+ E_m
  E_m
  A#d
  B_M
  G_M
+ C_M
  G_M
  E_m
- E_m
- G_M
  D_M
  D_M
  G_M
@@ -2895,13 +2856,16 @@
  G_M
  G_M
  C_M
- C_M
  G_M
  G_M
+ E_m
+ C_d6
  C_M
  B_M
  B_M
+ E_M
  A_m
+ D_m7
  D_m7
  D_m
  D_m
@@ -2910,26 +2874,22 @@
  A_m
  A_m
  A_m
- E_M
- A_m
  A_m
  G_M
  G_M
  G_M
- C_M
  C_M
  C_M
  C_M
  F_M6
  E_M
+ E_M
  A_m
- A_m
- D_M
  D_M
  E_M
  E_M
  A_m
- D_m
+ A_m
  D_m
  E_M4
  E_M
@@ -2937,18 +2897,20 @@
  F_M
  F_M
  C_M
+ C_M
+ A_m
  A_m
  D_m
  D_m
  C_M
  A_M
+ A_M
  D_m
  D_m
- D_m
- G_M
- C_M
  C_M
  D_m
+ D_m
+ F_M
  F_M
  C_M
  C_M
@@ -2957,12 +2919,14 @@
  E_M7
  A_m
  A_m
+ B_M7
  E_m
  A_m
  A_m
  G_M
  C_M
  C_M
+ A_m
  A_m
  D_m
  D_m
@@ -2976,6 +2940,8 @@
  G_M7
  G_M7
  C_M
+ C_M
+ C_M
  E_M
  A_m
  A_m
@@ -2987,7 +2953,6 @@
  C_M
  C_M
  F_M
- F_M
  C_M
  C_M
  C_M
@@ -2995,12 +2960,15 @@
  C_M
  C_M
  F_M
+ F_M
+ C_M
+ C_M
+ C_M
  C_M
  C_M
  C_M
  G_M4
  G_M4
- G_M
  G_M
  C_M
  C_M
@@ -3008,44 +2976,46 @@
  E_M
  A_m
  A_m
+ D_m
  D_m
  F_M
  F_M
  D_m6
- E_M7
  F_M
  C_M
- F_M
+ C_M
  F_M
  C_M
- D_m
+ C_M
+ A_M7
+ A_M7
  E_m
- D_m
  D_m
  D_m
  B_d
- C_M
- C_M
+ B_d
  E_m
  E_m
  E_m
  A_M7
- A_M7
  D_m
  D_m
  D_m
+ A_m
  A_m
  A_m
  E_M
- A_M
  G_m
  C_m7
  C_m
+ C_m
+ D_M
  D_M
  G_m
  G_m
  G_m
  D_M
+ D_M
  G_m
  G_m
  F_M
@@ -3055,7 +3025,7 @@
  BbM
  BbM
  BbM
- C_m7
+ BbM
  C_m7
  C_m7
  D_M
@@ -3063,35 +3033,36 @@
  G_m
  G_m
  C_M
- C_M
  D_M
  D_M
  G_m
- C_m
- G_m
- EbM
- EbM
  G_m
  C_m
  C_m
+ D_M
+ G_m
+ EbM
+ BbM
+ G_m
+ G_m
+ BbM
+ BbM
  G_M
- G_M
- C_m
  C_m
  C_m
  G_M
  F_M
  BbM
- BbM
+ C_m
  C_m
  EbM
  EbM
  BbM
+ D_M
  D_M
  D_M7
  D_M7
- G_m
- A_M7
+ D_m
  G_m
  G_m
  F_M
@@ -3100,32 +3071,27 @@
  G_m
  C_m
  C_m
- C_m
  F_M
+ EbM
  BbM
- BbM
- C_m7
- F_M4
  F_M4
  F_M7
  F_M7
  BbM
  BbM
+ BbM
+ D_M
  G_m
- C_m
- C_m
+ G_m
  C_m
  G_M
- BbM
- BbM
- EbM
- BbM
- BbM
- BbM
- BbM
- BbM
+ F_M
  BbM
  EbM
+ BbM
+ BbM
+ BbM
+ BbM
  EbM
  BbM
  BbM
@@ -3135,23 +3101,20 @@
  F_M4
  F_M4
  F_M
- F_M
  BbM
  BbM
- BbM
- D_M
- D_M
  G_m
  C_m
  C_m
  EbM
- EbM
  C_m6
  C_m6
  C_m6
  EbM
  BbM
  BbM
+ EbM
+ EbM
  BbM
  BbM
  G_M7
@@ -3162,7 +3125,6 @@
  C_m
  C_m6
  C_m6
- C_m6
  BbM
  BbM
  D_m
@@ -3171,6 +3133,7 @@
  B_d
  C_m
  C_m
+ G_m
  G_m
  G_m
  D_M
@@ -3179,19 +3142,20 @@
  F_M
  F_M
  F_M
+ C_M
+ C_M
  F_M
- C_M
- C_M
- BbM
+ F_M
  BbM
  E_d
  D_m
- E_d
  E_d
  BbM
  C_M
  G_m
+ G_m
  D_m
+ G_m
  G_m
  A_M
  D_m
@@ -3199,10 +3163,9 @@
  C_M
  F_M
  F_M
- F_M
- F_M
  BbM
  BbM
+ C_M
  C_M
  F_M
  BbM
@@ -3211,25 +3174,19 @@
  G_M7
  D_M7
  D_M7
- D_M7
  E_M7
  E_M7
- A_m
- A_m
  C_M7
  F_M
  F_M
  BbM
  BbM
- D_M7
- D_M7
  G_m
  F_M
  F_M
- D_M7
- D_M7
+ C_M
+ C_M
  G_M7
- C_m
  G_M7
  C_m
  C_m
@@ -3239,24 +3196,31 @@
  G_M
  G_M
  F#d
+ F#d
  G_M
  G_M
  G_M
  G_M
+ G_M
+ C_M
+ C_M
  C_M
  D_M
  D_M
  D_M
  D_M
  G_M
- D_M7
- D_M7
- G_M
  G_M
  D_M7
  D_M7
  G_M
  G_M
+ D_M7
+ D_M7
+ G_M
+ G_M
+ C_M
+ C_M
  A_m
  A_m
  D_M
@@ -3264,8 +3228,6 @@
  D_M7
  D_M7
  D_M7
- G_M
- G_M
  Dbd
  D_M
  E_m7
@@ -3273,7 +3235,6 @@
  D_M
  D_M
  A_M
- A_M
  D_M
  D_M
  D_M
@@ -3286,7 +3247,6 @@
  C_M
  E_M
  E_M
- E_M
  A_M
  A_M
  A_M
@@ -3295,29 +3255,23 @@
  A_M
  A_M
  A_M
- D_M
  G_M
- C_M
- G_M
- A_m
- A_m
  D#d
  E_m
  D_M
+ D_M
  G_M
  G_M
- C_M
  C_M
  C_M6
  C_M6
  C_M6
  D_M
  D_M
- G_M
+ D_M
  A_m
  A_m
  A_m
- E_m
  E_m
  F_M
  F_M
@@ -3328,37 +3282,30 @@
  D_m
  D_m
  E_M
- E_M
- A_m
  A_m
  F_M
  F_M
  B_d7
  B_d7
  E_M
- E_M
  A_m
  A_m
  A_m
  A_m
  E_m
  E_m
- F_M
- F_M
  E_m
- E_m
+ D_m
+ D_m
  D_m
  D_m
  E_M
  E_M
  A_m
- A_m
  F_M
  B_d7
  B_d7
  E_M
- E_M
- A_m
  A_m
  A_m
  D_m
@@ -3370,14 +3317,15 @@
  C_M4
  C_M
  C_M
- F_M
+ C_M
  F_M
  C#d7
  C#d7
  D_m
  D_m
  D_m
- A_M
+ C_M
+ C_M
  G_M
  G_M
  G_M
@@ -3386,33 +3334,19 @@
  G_M
  G_M
  A_m7
- D_M
- G_M
+ A_m7
+ E_M
  E_M
  F_M
  C_M
  D_m7
  D_m7
- G_M
- C_M
  C_M
  A_m
  A_m
  C_M
- C_M
- C_M
- F#d
- G_M
- G_M
- G_M7
- C_M
- C_M
- G_M
  G_M
  C_M
- G_M
- C_M
- F#d
  G_M
  G_M
  G_M7
@@ -3420,6 +3354,18 @@
  B_d
  C_M
  C_M
+ C_M
+ C_M
+ C_M
+ C_M
+ F#d
+ G_M
+ G_M
+ G_M
+ G_M7
+ C_M
+ C_M
+ C_M
  G_M
  G_M
  C_M
@@ -3427,22 +3373,19 @@
  C_M
  A_m
  A_m
- D_m
  A_m
  A_m7
- A_m7
  G_M7
  G_M7
  C_M
- C_M
  G_M7
  C_M
- G_M
- G_M
  D_m
  G_M
+ G_M
  C_M
  G_M
+ C_M
  C_M
  C_M
  G_M
@@ -3452,12 +3395,10 @@
  E_M
  E_M
  F#m7
- F#m7
- E_M
+ C#m7
  B_M7
  E_M
  E_M
- B_M
  B_M
  F#M
  D#m
@@ -3473,32 +3414,31 @@
  E_M
  E_M
  F#m
- F#m
  E_M
- B_M7
- E_M
- E_M
+ C#m7
  B_M
+ F#M
  D#M
  D#M
  E_M
  E_M
  G#m
+ G#m
  F#M4
  F#M
+ F#M
+ B_M
  E_M
  E_M
  C#m
  F#m6
- F#m6
  A_M
  B_M
  B_M
  F#m
- F#m
  E_M
  E_M
- G#m
+ B_M
  G#m
  A_M
  A_M
@@ -3516,8 +3456,6 @@
  EbM
  EbM
  BbM
- BbM
- EbM
  EbM
  BbM
  BbM
@@ -3525,6 +3463,35 @@
  C_m7
  F_M
  BbM
+ EbM
+ EbM
+ EbM
+ EbM
+ EbM
+ BbM
+ BbM
+ F_M7
+ BbM
+ BbM
+ BbM
+ EbM
+ AbM
+ AbM
+ AbM
+ C_m
+ F_m7
+ F_m7
+ BbM
+ EbM
+ EbM
+ EbM
+ EbM
+ BbM
+ BbM
+ EbM
+ BbM
+ BbM
+ F_M
  BbM
  BbM
  EbM
@@ -3535,60 +3502,19 @@
  EbM
  BbM
  F_M7
- F_M7
- BbM
  BbM
  F_M4
  F_M
  BbM
  EbM
+ EbM
  AbM
- AbM
+ EbM
  EbM
  AbM
  AbM
  C_m
- F_m7
- F_m7
- BbM
- EbM
- EbM
- EbM
- EbM
- EbM
- BbM
- BbM
- EbM
- EbM
- BbM
- BbM
- C_m7
- C_m7
- F_M
- BbM
- BbM
- BbM
- EbM
- EbM
- EbM
- EbM
- EbM
- EbM
- EbM
- BbM
  F_M7
- BbM
- BbM
- F_M
- BbM
- EbM
- EbM
- AbM
- AbM
- EbM
- EbM
- AbM
- C_m
  F_M7
  BbM
  EbM
@@ -3612,18 +3538,14 @@
  BbM
  EbM
  BbM
- EbM
+ BbM
  F_M7
  EbM
- EbM
- F_M7
  F_M7
  G_M
  G_M
  C_m
  C_m
- C_m
- EbM
  EbM
  BbM
  BbM
@@ -3632,36 +3554,15 @@
  EbM
  EbM
  EbM
- EbM
- AbM
  AbM
  C_m
  C_m
- F_M7
  F_M7
  BbM7
  EbM
  G_M
  G_M
  G_M
- C_M
- C_M
- G_M
- G_M
- D_M
- G_M
- C_M
- C_M
- C_M
- C_M
- G_M
- G_M
- C_M6
- D_M
- D_M
- G_M
- G_M
- G_M
  D_M
  G_M
  C_M
@@ -3674,8 +3575,23 @@
  C_M
  D_M
  C_M
+ G_M
+ G_M
+ C_M
+ C_M
+ D_M
+ D_M
+ G_M
+ D_M
  C_M
  G_M
+ D_M
+ D_M
+ C_M
+ C_M
+ D_M
+ C_M
+ C_M
  G_M
  C_M
  C_M
@@ -3686,6 +3602,7 @@
  C_M
  C_M
  A_M7
+ D_M
  D_M
  D_M
  D_M
@@ -3694,22 +3611,19 @@
  B_m
  E_m
  E_m
+ E_m
  A_M
  A_M
  A_M7
  A_M7
- D_M
- G_M
  G_M
  G_M6
  A_M
  A_M
  D_M
  G_M
- G_M
  C_M
  C_M
- G_M
  D_M
  D_M
  D_M
@@ -3718,10 +3632,13 @@
  D_M4
  D_M4
  D_M
- G_M
- B_m
  D_M
  G_M
+ B_m
+ D_M
+ D_M
+ D_M
+ D_M
  D_M
  D_M
  D_M
@@ -3730,15 +3647,20 @@
  A_M
  E_m
  E_m
+ E_m
+ B_m
  B_m
  F#M
- B_m
+ F#M
  B_m
  F#M4
  F#M4
  F#M
+ F#M
  B_m
  B_m
+ D_M
+ D_M
  D_M
  D_M
  D_M
@@ -3749,85 +3671,81 @@
  E_m
  E_m
  E_m
+ E_m
+ B_m
  B_m
  F#M
  F#M
+ B_m
  B_m
  F#M4
  F#M4
  F#M
- F#M
- B_m
  B_m
  B_m
  E_M
  E_M
  E_M7
- E_M7
- C#M
  C#M
  F#m6
  F#m6
  F#m
  F#m
- F#m
  B_m7
- B_m7
- A_M
  A_M
  E_M
  A#d7
  B_m
- D_d7
- F#M
- F#m
- F#m
- F#m
- D_d7
+ A#d7
  B_m
+ B_m
+ D_d7
+ D_d7
+ F#m
+ F#m
+ D_d7
+ F#m
  B_m
  E_M7
  A_M
  D_M
  E_M7
- E_M
+ E_M7
  E_M
  Bbd
  Bbd
  C#d6
  G_d
  G_d
+ G_d
  B_m
  B_m
- F#M4
- F#M4
  F#M
- F#M
- B_M7
  E_m
- B_M
  D_M
  D_M
+ G_M
  G_M
  A_M7
  A_M7
  A_M7
- B_m
- B_m
+ E_M7
  E_M7
  A_M
  E_m
  E_m
+ D_M
  A_M
  A_M
+ D_M
  D_M
  G_M
- G_M
  D_M
  D_M
  A_M
  A_M
  A_M
+ D_M
  D_M
  D_M
  D_M
@@ -3836,18 +3754,17 @@
  A_M
  A_M
  A_M
- B_m
  B_m
  E_M7
+ E_M7
+ A_M
  E_m
  D_M
  A_M
- D_M
+ A_M
  D_M
  G_M
- D_M
- D_M
- A_M
+ G_M
  A_M
  D_M
  B_M
@@ -3856,43 +3773,43 @@
  F#M7
  F#M7
  E_m
- E_m
+ B_m
  B_m
  F#M
- B_m
- D_M
+ F#M
+ C#d
  A_M
  A_M
- D_M
+ E_m7
  A_M
  A_M
  D_M
  F#m
  F#m
+ B_M
  C#m7
  F#M
  B_M
  E_M
  E_M
+ E_M
  F#M
  B_M
  F#M
- B_M
  F#m
  F#m
  F#m
  F#m
  F#m
+ C#m
  F#m6
+ G#M
  C#M
  F#m
  E_M
  E_M7
- A_M
- B_M
  B_M7
  E_M
- A_M
  A_M
  F#m7
  B_M
@@ -3900,17 +3817,16 @@
  E_M
  C#m
  F#m
+ D_M
  E_M7
  A_M
- A_M
+ C#M
  C#M7
  F#m
- F#m
  C#m
- C#m
- E_M
  A_M
  G#d
+ F#m
  C#M4
  C#M4
  C#M
@@ -3919,73 +3835,81 @@
  E_m
  D_M
  E_M
+ A_M
  D_M
  D_M
  D_M
  E_M
+ E_M
  A_M
- D#d
- E_m
  E_m
  E_m
  B_m
  E_m6
  F#M
  B_M
- E_m
  D_M
  G_M
  A_M
  A_M
  D_M
+ G_M
+ G_M
  E_m
+ A_M
  A_M
  D_M
  B_m
  E_M
  C_M
  D_M
+ G_M
+ G_M
  B_M
- B_M7
+ C_M
  G_M
  G_M
+ D_M
  G_M
  F#d
  E_m
  B_M4
  B_M4
- E_M
+ B_M
+ F_M
  BbM
  A_m
  D_m7
- D_m7
  G_m
  G_m
+ F_M
+ C_M
+ BbM
+ BbM
+ C_M
+ BbM
+ BbM
+ BbM
+ C_M
  C_M
  F_M
- BbM
- BbM
- C_M
- C_M
- F_M
- BbM
- BbM
  F_M
  BbM
  A_m7
  A_m7
  D_m7
+ D_m7
  G_m
  G_m
  F_M
+ C_M
+ C_M
  F_M
- C_M
- C_M
  BbM
  BbM
  C_M
  C_M
- F_M
+ BbM
  BbM
  BbM
  C_M
@@ -3993,59 +3917,51 @@
  F_M
  C_M
  F#d
- F#d
+ G_m
  G_m
  EbM
- EbM
- C_m6
  C_m6
  D_M
  D_M
  G_m
  G_m
  C_m
+ C_m
  D_m
  BbM
  BbM
  EbM
  EbM
- EbM
  F_M
  F_M
  BbM
+ F_M
  F_M
  G_m
  G_m
  A_m
- A_m
- D_m7
  D_m7
  G_m
  G_m
  F_M
- F_M
+ C_M
  C_M
  F_M
  F_M
- BbM
  BbM
  F_M
  F_M
  F_M
  F_M
- F_M
  C_M
  C_M
- F_M
  F_M
  F#m
  F#m
  E_M
  E_M
  F#m
- F#m
  B_m
- C#M
  A_M
  A_M
  A_M
@@ -4057,32 +3973,29 @@
  B_m
  C#M
  C#M
+ F#m
  F#m
  E_m
  E_m
  A_M
  A_M
+ F#m
  F#m
  B_M7
  E_M
  A_M
  A_M
  D_M
- D_M
  B_m
  B_m
  F#m
  F#m
  F#m
- F#m
  A_M
- A_M
- A_M
- E_M
  A_M
  A_M
  F#m
- A_M
+ F#m
  A_M
  B_M7
  B_M7
@@ -4094,21 +4007,22 @@
  C#M
  C#M
  C#M
+ F#m
  F#m
  B_m
  B_m
  B_m6
  C#M
- C#M
+ F#M
  F_m
  F_m
  F_m
  G_m
- G_m
  F_m7
  F_m7
  Bbm
- Bbm
+ C_M
+ AbM
  AbM
  AbM
  AbM
@@ -4116,7 +4030,7 @@
  C_M
  F_m
  F_m
- C_M
+ Bbd
  C_M
  F_m
  F_m
@@ -4124,14 +4038,10 @@
  C_m
  F_m
  F_m
- F_m
  EbM
  AbM
+ AbM
  DbM
- DbM
- Bbm
- Bbm
- F_m
  F_m
  DbM
  DbM
@@ -4139,9 +4049,10 @@
  EbM
  EbM
  AbM
- AbM
+ EbM
  AbM
  F_m
+ AbM
  AbM
  BbM7
  BbM7
@@ -4149,78 +4060,73 @@
  G_m
  EbM
  EbM
- C_M
+ EbM
  C_M
  C_M
  F_m
  F_m
+ Bbm
  Bbm
  Bbm6
  C_M
- F_M
  G_M
  D_M
  D_M
  D_M
  G_M
- C_M
+ G_M
  C_M
  C_M
  D_M
- D_M
+ G_M
  D_M
  E_m
- D_M
  E_m
+ D_M
  E_m
  A_M7
  D_M
  D_M
+ D_M7
  G_M
  D_M7
  G_M
  E_m
- C_M
  G_M
  A_m
  A_m
  D_M
  B_m
  C_M
- C_M
  G_M
  G_M
  D_M4
- D_M4
- D#d6
  E_m
  E_m
  E_m
  E_m
+ B_m
  G_M
  C_M
  C_M
  E_m
- E_m
- G_M
- D_M
  D_M
  G_M
  E_M
  A_m
- G#d
  A_m
  E_M
  E_M
- A_m
+ E_M
+ E_M
  A_m
  E_M
- G_M7
  A_m
  E_M
  E_M
  F_M
  F_M
+ B_d
  B_d
  B_d
  A_m
@@ -4228,24 +4134,29 @@
  E_M4
  E_M
  A_m
- G#d
- A_m
- E_M
  E_M
  A_m
  A_m
+ A_m
+ A_m
  E_M
+ G_M7
+ A_m
  A_m
  E_M
  E_M
+ F_M
+ F_M
  B_d
  B_d
+ B_d
  A_m
- A_m
+ E_M4
+ E_M
  A_m
  D_M
  G_M
- E_m
+ G_M
  B_M
  B_M
  E_m
@@ -4253,19 +4164,16 @@
  E_m
  E_m
  A_m
- A_m
  B_M
- E_m
- E_m
  F_M
  F_M
  A_m
  A_m
- E_M
  A_m
  A_m
  A_m
  E_M
+ A_m
  E_M
  A_m
  A_m
@@ -4274,27 +4182,29 @@
  C#d7
  D_M
  D_M
- D#d7
  E_M
  E_M7
  A_m
- C#d
+ C#d7
+ D_m
+ D_m
  D_m
  D_m
  G_m
  G_m
  A_M
  D#d7
+ A_m
  B_M7
  E_M
  E_M
  A_m
- E_M7
  C#d7
  D_m
  D_m
- G_m
- G_m
+ D_m
+ D_m
+ A_M
  E_m
  D#d7
  A_m
@@ -4302,45 +4212,46 @@
  E_M
  A_m
  A_m
- A_m
  G_M
  G_M7
  A_m
  B_d
  C_M
- F_M
  C_M
  C_M
  F_M
- C#d7
  C#d7
  A_M
  D_m
+ A_M
  D#d7
  G_M
  G_M
  G_M
  A_m
+ A_m
+ G_M
  C_M6
  D_M
- G_M
  C_M
  C_M
  D_m
  C_M
  D_M7
  G_M
- E_M7
  A_m
  E_M
  C_M
  C_M
  F_M
  G_M7
- C_M
+ D_M
  D_M
  G_M
  D_M
+ D_M
+ G_M
+ C_M
  G_M
  C_M
  G_M
@@ -4350,17 +4261,15 @@
  G_M
  C_M
  E_M
- E_M
  A_m
+ B_d7
  D_m
  C_M
  C_M
  G_M
+ C_M
  B_d
  C_M
- D_m7
- G_M
- D_M7
  G_M
  G_M
  C_M
@@ -4370,20 +4279,17 @@
  C#m
  F#m7
  B_m
- B_m
- A_M
- A_M
  E_M
+ A_M
+ A_M
  D_M
- E_M
- A_M
- A_M
  E_M4
  E_M4
  E_M
+ E_M
+ A_M
  A_M
  D_M
- C#m
  C#m
  F#m7
  B_m
@@ -4391,7 +4297,6 @@
  A_M
  E_M
  A_M
- A_M
  D_M
  E_M
  A_M
@@ -4403,13 +4308,18 @@
  A_M
  E_M
  A#d
- A#d
+ B_m
  B_m
  B_m
  B_m
  F#M4
+ F#M4
+ F#M
  F#M
  B_m
+ B_m
+ B_m
+ A_M
  A_M
  D_M
  D_M
@@ -4419,8 +4329,6 @@
  A_M
  A_M
  D_M
- D_M
- A_M
  A_M
  D_M7
  E_M
@@ -4431,15 +4339,12 @@
  A_M
  E_M
  A_M
- A_M
  D_M
  D_M
  A_M
  A_M
- A_M
  E_M4
  E_M4
- E_M
  E_M
  A_M
  D_M
@@ -4449,6 +4354,8 @@
  G_M
  E_m
  A_M
+ A_M
+ F#m
  F#m
  D_M
  A_M
@@ -4456,51 +4363,51 @@
  A_M
  A_M
  B_m
- B_m
- A_M
  A_M
  A_M
  A_M
  E_M4
  E_M4
- A_M
+ E_M
  D_M
  D_M
  D_M
  D_M
  B_m
- E_m
  F#m
  F#m
  A_M7
  A_M7
  D_M
- F#m
  F#m
  B_M7
- B_M7
+ E_m
+ E_m
  E_m
  A_M7
  A_M7
  D_M
- D_M
+ E_m7
  E_m7
  A_M4
  A_M4
  A_M7
  A_M4
- D_M
+ B_m
  B_m
  B_m
  F#m
  B_m
  A_M
+ A_M
+ B_M7
  B_M7
  E_M
- F#m
+ A_M
  F#m
  D_M
  D_M
+ B_m
  B_m
  B_m
  B_m
@@ -4513,35 +4420,39 @@
  F_M
  F_M
  F_M
+ F_M
+ C_M
+ F_M
+ C_m
+ C_m
+ BbM
+ BbM
+ F_M
+ F_M
+ G_m
+ C_M
+ F_M
+ F_M
+ F_M
+ F_M
+ G_M
+ G_M
+ C_M
+ C_M
+ C_M
+ G_M
+ G_M
+ G_M
+ C_M
+ F_M
+ F_M
+ F_M
+ F_M
+ C_M
  C_M
  F_M
  F_M
  C_m
- F_M
- F_M
- G_m
- C_M
- C_M
- F_M
- F_M
- F_M
- F_M
- F_M
- F_M
- G_M
- C_M
- C_M
- C_M
- G_M
- G_M
- G_M
- C_M
- F_M
- F_M
- F_M
- F_M
- C_M
- F_M
  BbM
  F_M
  F_M
@@ -4557,38 +4468,38 @@
  G_M
  G_M
  C_M
+ G_M
+ G_M
  C_M
- G_M
- G_M
- G_M
- F_M
  F_M
  D_m
  D_m
+ C_M
+ C_M
  G_M
- C_M
- C_M
- F_M
- F_M
  G_M
  C_M
  F_M
  F_M
+ G_M
+ C_M
  F_M
  F_M
  F_M
  F_M
- BbM
+ F_M
  D_m
- D_m
+ C_M
  C_M
  G_m
  G_m
  D_M
+ F_M
+ F_M
  C_M
  C_M
  BbM
- F_M
+ BbM
  F_M
  C_M
  G_m
